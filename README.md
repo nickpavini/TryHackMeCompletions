@@ -34,6 +34,25 @@ Documents for myself or others on various Try Hack Me rooms that I have complete
 
 ### Pickle Rick
   
-  * link: https://tryhackme.com/room/basicpentestingjt
+  * link: https://tryhackme.com/room/picklerick
   * Difficulty: easy
   * List skills: ctf, dirbuster, linux
+
+### c4ptur3-th3-fl4g
+  
+  * link: https://tryhackme.com/room/c4ptur3th3fl4g
+  * Difficulty: easy
+  * List skills: security, decryption, steganography
+
+### Crack The Hash
+  
+  * link: https://tryhackme.com/room/crackthehash
+  * Difficulty: easy
+  * List skills: hash, hashcat, johntheripper, cracking
+
+### FowSniff Ctf
+  
+  * link: https://tryhackme.com/room/ctf
+  * Difficulty: easy
+  * List skills: portscanning, hashes, brute-force, pop3
+
